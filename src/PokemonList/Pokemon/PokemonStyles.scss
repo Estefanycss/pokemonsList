@@ -1,0 +1,21 @@
+.container {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #81d4fa;
+  width: 20vw;
+  min-width: 270px;
+  position: relative;
+}
+
+.title {
+  font-size: 22px;
+  text-transform: capitalize;
+  color: #0277bd;
+}
+
+.image {
+  width: 50%;
+  position: absolute;
+  top: -25%;
+  right: -20%;
+}
